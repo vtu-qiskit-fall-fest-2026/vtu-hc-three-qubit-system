@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Three Qubit System** · Team ID `VTU-QFF-HC-0175` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Three Qubit System)
+[⬆ Back to Top](#three-qubit-system)
 
 </div>
