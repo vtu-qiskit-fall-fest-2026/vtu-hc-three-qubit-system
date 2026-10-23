@@ -1,0 +1,5 @@
+Model,Accuracy,Balanced acc,F1 (active),ROC-AUC,PR-AUC
+LogReg (4 features),0.609,0.638,0.36,0.708,0.306
+SVM-RBF (4 features),0.642,0.628,0.353,0.696,0.293
+RandomForest (full fingerprint),0.682,0.671,0.399,0.739,0.363
+VQC (4 qubits),0.594,0.582,0.309,0.601,0.226
