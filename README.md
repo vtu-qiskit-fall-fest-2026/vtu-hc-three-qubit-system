@@ -46,9 +46,9 @@
 
 | # | Name | GitHub Username | Role |
 | :-- | :--- | :--- | :--- |
-| 1 | _Add your name_ | _your-github-username_ | _Team Lead_ |
-| 2 | _Add your name_ | _your-github-username_ | _Developer_ |
-| 3 | _Add your name_ | _your-github-username_ | _Developer_ |
+| 1 | _Dibyakalayan Ratha_ | _Dibya956_ | _Team Lead_ |
+| 2 | _Kumar Chandra Sheo Narayan_ | _devkcsn_ | _Developer_ |
+| 3 | _Sachidananda Muduli_ | _Sachidanada-muduli_ | _Developer_ |
 
 <!--
 Optional: add a plain list instead of the table above.
@@ -66,11 +66,11 @@ who experiences it, and why does it matter. Link to the official problem
 statement from the brief if one applies.
 -->
 
-**Problem:** _Describe the problem in 2–3 sentences._
+**Problem:** _To develop a quantum machine-learning model using Qiskit to predict chemical compound toxicity based on the SR-ARE endpoint of the Tox21 dataset._
 
-**Why it matters:** _Explain the impact or opportunity._
+**Why it matters:** _Explore quantum machine-learning techniques for the SR-ARE toxicity endpoint._
 
-**Track / Category:** _Online / Offline · Track 1 / Track 2 · <domain>_
+**Track / Category:** _Online · Track 1 / Track 2 · Quantum Machine Learning (QML)_
 
 ---
 
@@ -130,18 +130,10 @@ flowchart LR
 vtu-hc-three-qubit-system/
 ├── README.md              # This file
 ├── requirements.txt       # Python dependencies
-├── pyproject.toml         # Project metadata (optional)
 ├── .gitignore
-├── notebooks/             # Jupyter notebooks for experiments
-│   └── exploration.ipynb
 ├── src/
-│   ├── __init__.py
-│   ├── circuit.py         # Quantum circuit construction
-│   ├── optimizer.py       # Optimization loop
-│   └── main.py            # Entry point
+│   ├── tox21_vqc_optimized.ipynb
 ├── data/                  # Datasets (use Git LFS for large files)
-├── tests/                 # Unit tests
-│   └── test_circuit.py
 └── docs/                  # Notes, diagrams, reports
 ```
 
